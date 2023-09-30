@@ -11,13 +11,56 @@ Win notification when the puzzle is successfully solved.
 Simple and intuitive user interface.
 
 # Screenshots
-![image](https://github.com/AzizbekLive/Puzzle-15/assets/120745929/fa5ddde2-af97-40bc-8a3a-b7c7c1dd6bd5)
-![image](https://github.com/AzizbekLive/Puzzle-15/assets/120745929/b0148410-e7d6-489f-95d2-e43340318775)
-![image](https://github.com/AzizbekLive/Puzzle-15/assets/120745929/90e4f872-08b6-4fb3-a8b4-807e834e0c35)
-![image](https://github.com/AzizbekLive/Puzzle-15/assets/120745929/e9e1bc69-5c6e-42a5-a24d-aaee22d25ff2)
-![image](https://github.com/AzizbekLive/Puzzle-15/assets/120745929/04f684a2-c747-44d3-9015-0f25ec5a636a)
-![image](https://github.com/AzizbekLive/Puzzle-15/assets/120745929/d66b53f5-9e48-45d3-9b75-05bf1222dfac)
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/AzizbekLive/Puzzle-15/assets/120745929/fa5ddde2-af97-40bc-8a3a-b7c7c1dd6bd5" width="200" alt="Screenshot 1">
+    </td>
+    <td align="center">
+      <img src="https://github.com/AzizbekLive/Puzzle-15/assets/120745929/b0148410-e7d6-489f-95d2-e43340318775" width="200" alt="Screenshot 2">
+    </td>
+    <td align="center">
+      <img src="https://github.com/AzizbekLive/Puzzle-15/assets/120745929/90e4f872-08b6-4fb3-a8b4-807e834e0c35" width="200" alt="Screenshot 3">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Screenshot 1
+    </td>
+    <td align="center">
+      Screenshot 2
+    </td>
+    <td align="center">
+      Screenshot 3
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/AzizbekLive/Puzzle-15/assets/120745929/e9e1bc69-5c6e-42a5-a24d-aaee22d25ff2" width="200" alt="Screenshot 4">
+    </td>
+    <td align="center">
+      <img src="https://github.com/AzizbekLive/Puzzle-15/assets/120745929/04f684a2-c747-44d3-9015-0f25ec5a636a" width="200" alt="Screenshot 5">
+    </td>
+    <td align="center">
+      <img src="https://github.com/AzizbekLive/Puzzle-15/assets/120745929/d66b53f5-9e48-45d3-9b75-05bf1222dfac" width="200" alt="Screenshot 6">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Screenshot 4
+    </td>
+    <td align="center">
+      Screenshot 5
+    </td>
+    <td align="center">
+      Screenshot 6
+    </td>
+  </tr>
+</table>
 
 # How to Play
 
