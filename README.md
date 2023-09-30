@@ -74,4 +74,4 @@ You can use the "Shuffle" button to start with a random arrangement.
 Contributions to the project are welcome! If you find a bug or have an enhancement in mind, please open an issue or create a pull request.
 
 # Support
-If you have any questions or need assistance, please feel free to contact us.
+If you have any questions or need assistance, please feel free to [contact us](https://t.me/azizlive).
