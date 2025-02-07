@@ -45,9 +45,6 @@ Simple and intuitive user interface.
     <td align="center">
       <img src="https://github.com/AzizbekLive/Puzzle-15/assets/120745929/04f684a2-c747-44d3-9015-0f25ec5a636a" width="200" alt="Screenshot 5">
     </td>
-    <td align="center">
-      <img src="https://github.com/AzizbekLive/Puzzle-15/assets/120745929/d66b53f5-9e48-45d3-9b75-05bf1222dfac" width="200" alt="Screenshot 6">
-    </td>
   </tr>
   <tr>
     <td align="center">
